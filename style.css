@@ -1,0 +1,47 @@
+body
+{
+  color: white;
+  background: #54575f;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(30, 30, 39);
+  width: 350px;
+  height: 300px; 
+}
+#result1 ,#result2  
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+  color:black;
+}
+.gesture
+{
+  font-size:48px;
+  color:black;
+}
+
+.thatonediv {
+
+font-size: 18px;
+letter-spacing: 10px;
+border-radius: 10px;
+margin-top: 5px;
+
+}
+
+label {
+
+background-color: rgb(0, 0, 0);
+color:#4f5080;
+font-size: 16px;
+padding: 6px;
+border-radius: 10px;
+}
